@@ -330,7 +330,7 @@ ollama pull qwen2.5:1.5b
 
 ### Deployment Steps
 
-1. Import `workflow.json` into your n8n workspace.
+1. Import `Sentiment_Analysis_v6.json` into your n8n workspace.
 2. Configure your Ollama credentials in n8n (default host: `http://localhost:11434`).
 3. Authenticate your Google Sheets OAuth2 credentials and select your destination spreadsheet.
 4. Make sure the sheet has `Name` and `Review` column headers.
